@@ -1,0 +1,19 @@
+# Data files
+household_power_consumption.txt
+*.csv
+*.zip
+
+# Visualizations
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
